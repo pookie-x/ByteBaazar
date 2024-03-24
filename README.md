@@ -1,3 +1,3 @@
 # Sonic-Canvas
-A frontend music player app
+A frontend e commerce
 Will start working on it from 01 April
